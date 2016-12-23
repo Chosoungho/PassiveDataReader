@@ -73,7 +73,7 @@ import the this source
 - run HIVE
 - rum Tomcat Server
 - run this source
-- type the " your IP:Tomcat PORT/dcl/lifelog/###
+- type the " your IP:Tomcat PORT/dcl/lifelog/### in Browser
 - check the schema : IP:PORT/dcl/lifelog/schema
 - request the data : IP:PORT/dcl/lifelog/data/query="CONDITION"
 
