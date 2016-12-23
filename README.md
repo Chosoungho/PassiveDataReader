@@ -95,7 +95,7 @@ import the this source
 
 # 6. License
 
-Copyright [2016] [name of copyright owner <-Put your name]
+Copyright [2016] [Cho soungho]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
